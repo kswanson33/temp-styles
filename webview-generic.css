@@ -4,6 +4,10 @@
   --content-text-scale: 1;
 }
 
+body {
+  color: red;
+}
+
 [data-type=page],
 [data-type=composite-page] {
   font-size: calc(1.6rem * var(--content-text-scale));
