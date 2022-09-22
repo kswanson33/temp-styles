@@ -2010,7 +2010,8 @@ pre[data-type=code].centered-code {
 [data-type=equation] {
   display: table;
   width: 100%;
-  background-color: blue;
+  background-color: green;
+  overflow: auto !important;
 }
 
 [data-type=equation] [data-type=title] {
