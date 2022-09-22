@@ -2007,7 +2007,7 @@ pre[data-type=code].centered-code {
   vertical-align: middle;
 }
 
-[data-type=equation] {
+#main-content [data-type=equation] {
   display: table;
   width: 100%;
   background-color: green;
