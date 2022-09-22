@@ -2011,6 +2011,13 @@ pre[data-type=code].centered-code {
   display: table;
   width: 100%;
   background-color: green;
+  overflow: auto;
+}
+
+[data-type=equation] {
+  display: table;
+  width: 100%;
+  background-color: purple;
   overflow: auto !important;
 }
 
